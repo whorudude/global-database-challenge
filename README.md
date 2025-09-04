@@ -13,7 +13,7 @@ For example, the words `listen`, `silent`, and `enlist` will be grouped together
 ## Requirements
 
 - Java **17+**
-- Maven **3.9**
+- Maven **4.0+**
 - IntelliJ IDEA (optional, but recommended)
 
 ---
